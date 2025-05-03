@@ -6,8 +6,7 @@
 **INTERN ID:** CT04DK897  
 **DOMAIN:** MACHINE LEARNING  
 **DURATION:** 4 WEEKS  (30th APR - 30th MAY)  
-**MENTOR:** NEELA SANTHOSH  
-**Current date:** Saturday, May 03, 2025, 5:45 PM IST
+**MENTOR:** NEELA SANTHOSH
 
 ---
 
