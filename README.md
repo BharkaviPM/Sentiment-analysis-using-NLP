@@ -104,7 +104,7 @@ The dataset consists of customer reviews, each stored in a column named **'text'
 This project provides a comprehensive introduction to **Sentiment Analysis** using **NLP** and **machine learning**. By following the steps in the notebook, you will learn how to preprocess text, extract meaningful features, train a classifier, and interpret the results. The workflow is easily adaptable to real-world datasets and more advanced NLP tasks.
 
 ---
-#**Output**
+#Output
 ---
 
 ![Image](https://github.com/user-attachments/assets/631dee56-169e-498f-9b6b-9d7b9f587203)
