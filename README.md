@@ -106,7 +106,11 @@ This project provides a comprehensive introduction to **Sentiment Analysis** usi
 ---
 #**Output**
 ---
-![Image](https://github.com/user-attachments/assets/36cb8f75-444c-49fb-8766-ff9298e63292)
----
+
 ![Image](https://github.com/user-attachments/assets/631dee56-169e-498f-9b6b-9d7b9f587203)
+
+---
+
+![Image](https://github.com/user-attachments/assets/36cb8f75-444c-49fb-8766-ff9298e63292)
+
 ---
